@@ -1,6 +1,6 @@
 # Reto3-POO
 
-''mermaid
+ ```mermaid
 classDiagram
 
 class MenuItem {
