@@ -23,6 +23,7 @@ class MainCourse {
 }
 
 class Order {
+  - order_number: int
   - items: List~Tuple[MenuItem, int]~
   + add(item: MenuItem, quantity: int)
   + total(): float
